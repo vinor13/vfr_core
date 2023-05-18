@@ -1,0 +1,1 @@
+VFR = VFR or {}
